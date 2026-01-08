@@ -54,13 +54,13 @@ The interactivity is powered by `script.js`:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/traffic-light.git
+   git clone https://github.com/ChiFrontEnd/CSS-TrafficLight.git
    
 2. Navigate to the project folder:
    ```bash
-   cd traffic-light
+   cd CSS-TrafficLight
    
-4. Open ``` index.html``` in your browser.
+4. Open ```index.html``` in your browser.
 
 ---
 
