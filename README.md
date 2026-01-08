@@ -78,7 +78,7 @@ The interactivity is powered by `script.js`:
 
 ## 📸 Screenshots
 
-![Traffic Light Screenshot](Screenshots/Traffic Light.mp4)
+[Traffic Light Result](Output/TrafficLight.gif)
 
 ---
 
