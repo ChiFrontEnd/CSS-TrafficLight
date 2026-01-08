@@ -78,7 +78,7 @@ The interactivity is powered by `script.js`:
 
 ## 📸 Screenshots
 
-(Add screenshots or GIFs of the traffic light in action — red, yellow, green states, and auto mode)
+![Traffic Light Screenshot](traffic-light-red.png)
 
 ---
 
@@ -112,4 +112,9 @@ This project is for **personal/educational use only**.
 © 2025 Glassmorphism Traffic Light Project
 
 ---
+
+👧 Author
+---
+    Auther Name:     Trupti Y. Sabale  
+    Created:         22-Dec-2025
 
